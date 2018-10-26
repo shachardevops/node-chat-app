@@ -26,3 +26,4 @@ jQuery('#message-form').on('submit', event => {
     () => {}
   );
 });
+console.log(__dirname);
